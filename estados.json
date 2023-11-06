@@ -1,137 +1,164 @@
-﻿[
+[
 	{
-		"codigo_uf" : 11,
-		"uf" : "RO",
-		"nome" : "Rondônia"
-	},
-	{
-		"codigo_uf" : 12,
+		"id" : 1,
+		"nome" : "Acre",
 		"uf" : "AC",
-		"nome" : "Acre"
+		"regiao" : "Norte"
 	},
 	{
-		"codigo_uf" : 13,
-		"uf" : "AM",
-		"nome" : "Amazonas"
-	},
-	{
-		"codigo_uf" : 14,
-		"uf" : "RR",
-		"nome" : "Roraima"
-	},
-	{
-		"codigo_uf" : 15,
-		"uf" : "PA",
-		"nome" : "Pará"
-	},
-	{
-		"codigo_uf" : 16,
-		"uf" : "AP",
-		"nome" : "Amapá"
-	},
-	{
-		"codigo_uf" : 17,
-		"uf" : "TO",
-		"nome" : "Tocantins"
-	},
-	{
-		"codigo_uf" : 21,
-		"uf" : "MA",
-		"nome" : "Maranhão"
-	},
-	{
-		"codigo_uf" : 22,
-		"uf" : "PI",
-		"nome" : "Piauí"
-	},
-	{
-		"codigo_uf" : 23,
-		"uf" : "CE",
-		"nome" : "Ceará"
-	},
-	{
-		"codigo_uf" : 24,
-		"uf" : "RN",
-		"nome" : "Rio Grande do Norte"
-	},
-	{
-		"codigo_uf" : 25,
-		"uf" : "PB",
-		"nome" : "Paraíba"
-	},
-	{
-		"codigo_uf" : 26,
-		"uf" : "PE",
-		"nome" : "Pernambuco"
-	},
-	{
-		"codigo_uf" : 27,
+		"id" : 2,
+		"nome" : "Alagoas",
 		"uf" : "AL",
-		"nome" : "Alagoas"
+		"regiao" : "Nordeste"
 	},
 	{
-		"codigo_uf" : 28,
-		"uf" : "SE",
-		"nome" : "Sergipe"
+		"id" : 3,
+		"nome" : "Amazonas",
+		"uf" : "AM",
+		"regiao" : "Norte"
 	},
 	{
-		"codigo_uf" : 29,
+		"id" : 4,
+		"nome" : "Amapá",
+		"uf" : "AP",
+		"regiao" : "Norte"
+	},
+	{
+		"id" : 5,
+		"nome" : "Bahia",
 		"uf" : "BA",
-		"nome" : "Bahia"
+		"regiao" : "Nordeste"
 	},
 	{
-		"codigo_uf" : 31,
-		"uf" : "MG",
-		"nome" : "Minas Gerais"
+		"id" : 6,
+		"nome" : "Ceará",
+		"uf" : "CE",
+		"regiao" : "Nordeste"
 	},
 	{
-		"codigo_uf" : 32,
-		"uf" : "ES",
-		"nome" : "Espírito Santo"
-	},
-	{
-		"codigo_uf" : 33,
-		"uf" : "RJ",
-		"nome" : "Rio de Janeiro"
-	},
-	{
-		"codigo_uf" : 35,
-		"uf" : "SP",
-		"nome" : "São Paulo"
-	},
-	{
-		"codigo_uf" : 41,
-		"uf" : "PR",
-		"nome" : "Paraná"
-	},
-	{
-		"codigo_uf" : 42,
-		"uf" : "SC",
-		"nome" : "Santa Catarina"
-	},
-	{
-		"codigo_uf" : 43,
-		"uf" : "RS",
-		"nome" : "Rio Grande do Sul"
-	},
-	{
-		"codigo_uf" : 50,
-		"uf" : "MS",
-		"nome" : "Mato Grosso do Sul"
-	},
-	{
-		"codigo_uf" : 51,
-		"uf" : "MT",
-		"nome" : "Mato Grosso"
-	},
-	{
-		"codigo_uf" : 52,
-		"uf" : "GO",
-		"nome" : "Goiás"
-	},
-	{
-		"codigo_uf" : 53,
+		"id" : 7,
+		"nome" : "Distrito Federal",
 		"uf" : "DF",
-		"nome" : "Distrito Federal"
+		"regiao" : "Centro-Oeste"
+	},
+	{
+		"id" : 8,
+		"nome" : "Espírito Santo",
+		"uf" : "ES",
+		"regiao" : "Sudeste"
+	},
+	{
+		"id" : 9,
+		"nome" : "Goiás",
+		"uf" : "GO",
+		"regiao" : "Centro-Oeste"
+	},
+	{
+		"id" : 10,
+		"nome" : "Maranhão",
+		"uf" : "MA",
+		"regiao" : "Nordeste"
+	},
+	{
+		"id" : 11,
+		"nome" : "Minas Gerais",
+		"uf" : "MG",
+		"regiao" : "Sudeste"
+	},
+	{
+		"id" : 12,
+		"nome" : "Mato Grosso do Sul",
+		"uf" : "MS",
+		"regiao" : "Centro-Oeste"
+	},
+	{
+		"id" : 13,
+		"nome" : "Mato Grosso",
+		"uf" : "MT",
+		"regiao" : "Centro-Oeste"
+	},
+	{
+		"id" : 14,
+		"nome" : "Pará",
+		"uf" : "PA",
+		"regiao" : "Norte"
+	},
+	{
+		"id" : 15,
+		"nome" : "Paraíba",
+		"uf" : "PB",
+		"regiao" : "Nordeste"
+	},
+	{
+		"id" : 16,
+		"nome" : "Pernambuco",
+		"uf" : "PE",
+		"regiao" : "Nordeste"
+	},
+	{
+		"id" : 17,
+		"nome" : "Piauí",
+		"uf" : "PI",
+		"regiao" : "Nordeste"
+	},
+	{
+		"id" : 18,
+		"nome" : "Paraná",
+		"uf" : "PR",
+		"regiao" : "Sul"
+	},
+	{
+		"id" : 19,
+		"nome" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"regiao" : "Sudeste"
+	},
+	{
+		"id" : 20,
+		"nome" : "Rio Grande do Norte",
+		"uf" : "RN",
+		"regiao" : "Nordeste"
+	},
+	{
+		"id" : 21,
+		"nome" : "Rondônia",
+		"uf" : "RO",
+		"regiao" : "Norte"
+	},
+	{
+		"id" : 22,
+		"nome" : "Roraima",
+		"uf" : "RR",
+		"regiao" : "Norte"
+	},
+	{
+		"id" : 23,
+		"nome" : "Rio Grande do Sul",
+		"uf" : "RS",
+		"regiao" : "Sul"
+	},
+	{
+		"id" : 24,
+		"nome" : "Santa Catarina",
+		"uf" : "SC",
+		"regiao" : "Sul"
+	},
+	{
+		"id" : 25,
+		"nome" : "Sergipe",
+		"uf" : "SE",
+		"regiao" : "Nordeste"
+	},
+	{
+		"id" : 26,
+		"nome" : "São Paulo",
+		"uf" : "SP",
+		"regiao" : "Sudeste"
+	},
+	{
+		"id" : 27,
+		"nome" : "Tocantins",
+		"uf" : "TO",
+		"regiao" : "Centro-Oeste"
 	}
 ]
